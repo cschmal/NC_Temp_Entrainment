@@ -3,7 +3,7 @@ Code underlying Figure 1 of the manuscript
 'Principles underlying the complex dynamics of
 temperature entrainment by a circadian clock'
 
-For three exemplary conditions (3 replicates eacg)
+For three exemplary conditions (3 replicates each)
 we investigate the raw time series, instantaneous phases
 and Lomb-Scargle periodograms.
 """
